@@ -1,6 +1,5 @@
 Coursera course: HTML, CSS, and Javascript for Web Developers, Module 5 Coding Assignment, completed.
 
-https://selenearzola.github.io/coursera-course-module5-assignment/
 
 Time to complete: About 30 minutes.
 
@@ -26,7 +25,7 @@ You will need to download the starter files for this project and copy them into 
 
 This will update your local repository with whatever changes have been made since the last update. 
 
-As a reminder, the full repository URL is: https://github.com/jhu-ep-coursera/fullstack-course4
+
 
 Once you update your repository, copy all the contents of the fullstack-course4/assignments/assignment5/assignment5-solution-starter folder into your newly created solutions container folder for this assignment, e.g., module5-solution. 
 
